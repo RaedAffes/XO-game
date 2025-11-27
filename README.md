@@ -1,3 +1,3 @@
 # XO-game
 A simple multiplayer XO game 
-Live Demo : https://iplay.xo.je
+Visit : https://iplay.xo.je
